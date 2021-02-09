@@ -1,6 +1,7 @@
 
 # Sentry
 ## Pros
+- Works in managed expo
 - JavaScript stack traces
 - User identification
 - Aggregate Crash Reporting
@@ -18,6 +19,7 @@
 - **Business:** ***89$*** (50k errors)
 # Bugsnap
 ## Pros
+- Works in managed expo
 - JavaScript stack traces
 - User identification
 - Aggregate Crash Reporting

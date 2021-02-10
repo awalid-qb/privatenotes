@@ -26,7 +26,7 @@
 - Monitor Release Health
 - GitHub integration
 - Notifications through slack/email
-- Automatically capturing HTTP requests, Orientation changes, App entering or exiting the foreground, Network state changes
+- Automatically captures HTTP requests, Orientation changes, App entering or exiting the foreground, Network state changes
  ## Cons
 - SSO integration only in Enterprise plan
 - Seats limited by plan

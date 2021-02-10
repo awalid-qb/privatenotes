@@ -38,6 +38,16 @@
 - **Standard**
   - ***69$*** for 5 users (150k errors)
   - ***239$*** for 15 users (450k errors)
+# Firebase Crashlytics
+## Pros
+- Aggregate Crash Reporting
+- Cures for common crashes
+- Integrated with firebase analytics
+
+## Cons
+- Doesn't work in managed expo
+## Pricing
+**Free**
 ***
 All prices are per month and for monthly payments
 All Errors are per month

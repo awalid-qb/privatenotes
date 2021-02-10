@@ -49,5 +49,5 @@
 ## Pricing
 **Free**
 ***
-All prices are per month and for monthly payments
-All Errors are per month
+- All prices are per month and for monthly payments
+- All Errors are per month

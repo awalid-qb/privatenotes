@@ -37,7 +37,7 @@
 - **Teams** ***120$***
   - Unlimited sources
   - up to 10k mtu
-  - +***12$*** for everyone 1k over 10k
+  - +***12$*** for every 1k over 10k
   - max of 10 seats
 
 
